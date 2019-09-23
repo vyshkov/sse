@@ -1,3 +1,6 @@
+# sse
+SSE demo with Vue.js client
+
 # chat
 
 ## Project setup
